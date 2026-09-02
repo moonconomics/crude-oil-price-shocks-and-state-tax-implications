@@ -31,12 +31,10 @@ II. do files, R scripts
 
 
 III. STATA instructions:
-1.	Open the replication zip folder.
-2.	Copy all the folders from the replication zip folder and paste them on your desktop.
-3.	Copy the address of the raw_data folder from your desktop.
-4.	Open STATA
-5.	From STATA, open the do_files folder on your desktop and select codes.do.
-6.	Follow the instructions on codes.do. Make sure to install the necessary packages to run the regressions. 
+1.	Download all the files into a folder on your desktop.
+2.	Open STATA
+3.	From STATA, open codes.do.
+4.	Follow the instructions on codes.do. Make sure to install the necessary packages to run the regressions. 
 
 IV. Data Sources
 
