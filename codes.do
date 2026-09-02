@@ -600,7 +600,7 @@ ereturn local obw = "`obw'"
 
 end
 xtsum2 Tau Tauf ci crudeExport airTraffic oilshare pcpj pcph pgpj returns y
-esttab e(mat_all) using table3.tex, mlabels(none) labcol2(`e(obw)') varlabels(r2 " " r3 " ")  replace
+esttab e(mat_all) using table7.tex, mlabels(none) labcol2(`e(obw)') varlabels(r2 " " r3 " ")  replace
 
 				* Panel error correction term estimation  
 /*
