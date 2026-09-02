@@ -39,6 +39,7 @@ III. STATA instructions:
 6.	Follow the instructions on codes.do. Make sure to install the necessary packages to run the regressions. 
 
 IV. Data Sources
+
 https://www.bea.gov/data/gdp/gdp-state
 
 https://www.bts.gov/browse-statistical-products-and-data/state-transportation-statistics/us-airline-traffic-airport
