@@ -6,34 +6,53 @@ I. Data
                                                                   A. Main data
                                                                   
 •	state tax collection (total taxes).xlsx   
+
 •	27 Mineral Fuel, Oil Etc.; Bitumin Subst; Mineral Wax.xlsx
+
 •	Personal consumption expenditures.xlsx
+
 •	Resident population.xlsx
+
 •	U.S Airline Traffic By Airport.xlsx
+
 •	Consumer price index.xlsx
+
 •	FHFA house price index.xlsx
+
 •	gasoline_data.xlsx
+
 •	West Texas Crude Cushing Prices.xlsx
+
 •	US GDP data.xlsx
+
 •	Oil and gas extraction.xlsx
+
 •	returns.xlsx
+
 •	Motor fuel taxes.xlsx
 				                                                        B. Top-oil exporting countries 
+																		
 •	Top Exporters (final raw data).xlsx
 				                                                        C. Top-oil importing countries
 •	Top Importers (raw data).xlsx
+
 •	total government revenue (top importers).xlsx
 
 II. do files, R scripts
 
 •	codes.do		
+
 •	stock_data.R		
 
 
 III. STATA instructions:
+
 1.	Download all the files into a folder on your desktop.
+
 2.	Open STATA
+
 3.	From STATA, open codes.do.
+
 4.	Follow the instructions on codes.do. Make sure to install the necessary packages to run the regressions. 
 
 IV. Data Sources
