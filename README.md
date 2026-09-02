@@ -40,9 +40,14 @@ III. STATA instructions:
 
 IV. Data Sources
 https://www.bea.gov/data/gdp/gdp-state
+
 https://www.bts.gov/browse-statistical-products-and-data/state-transportation-statistics/us-airline-traffic-airport
+
 https://databank.worldbank.org/source/world-development-indicators/preview/on
+
 https://fred.stlouisfed.org/
+
 https://finance.yahoo.com/
+
 https://usatradeonline.census.gov/home
 
