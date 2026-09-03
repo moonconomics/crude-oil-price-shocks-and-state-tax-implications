@@ -35,7 +35,7 @@ cd "C:\Users\muuno\Desktop\Energy Economics\raw_data"
 /* (i). Loading the state tax data and the fuel tax data
 
 Importing the raw tax data and cleaning the raw data and transforming the data into STATA format. The units of the data are changed to the true numbers by multiplying
-the data by $1,000,000. Some states suspended such as alaska suspended motor fueltax
+the data by $1,000,000. Some states such as alaska suspended motor fueltax
 tax in 2009, but the Federal Reserve Bank of Saint Louis made a mistake in their data 
 and put a negative number in the data. We replace this number with 0. 
 */
